@@ -1,6 +1,6 @@
 
 # EX 1A Print All Numbers 
-## DATE: 6.8.25
+## DATE: 6.8.26
 ## AIM:
 To Write a Java program that takes an integer input N from the user and prints all the numbers from 1 to N, separated by spaces, on a single line..
 
@@ -21,8 +21,8 @@ To Write a Java program that takes an integer input N from the user and prints a
 ```
 /*
 Program to implement Reverse a String
-Developed by: MUKESH R
-Register Number: 212223240100
+Developed by: SANJAY KUMAR B
+Register Number: 212223220095
 */
 import java.util.Scanner;
 public class PrintNumbers {
@@ -54,7 +54,7 @@ public class PrintNumbers {
 
 
 # EX 1B Power of 2
-## DATE: 19.8.25
+## DATE:  6.8.26
 ## AIM:
 To write a Java program to for given constraints.Given an integer n, return true if it is a power of two. Otherwise, return false.
 
@@ -77,8 +77,8 @@ An integer n is a power of two, if there exists an integer x such that n == 2^x.
 ```
 /*
 Program to implement Reverse a String
-Developed by: MUKESH R
-Register Number: 212223240100
+Developed by: SANJAY KUMAR B
+Register Number: 212223220095
 */
 import java.util.Scanner;
 public class Solution {
@@ -117,7 +117,7 @@ The program successfully implemented and the expected output is verified.
 
 
 # EX 1C Valid Pairs using Brute Force Approach
-## DATE: 21.8.26
+## DATE:  6.8.26
 ## AIM:
 To write a Java program to for given constraints.
 Given an integer array nums and an integer k, return the number of pairs (i, j) where i < j such that |nums[i] - nums[j]| == k.
@@ -150,8 +150,8 @@ x if x >= 0.
 ```
 /*
 Program to implement Reverse a String
-Developed by: MUKESH R
-Register Number: 212223240100
+Developed by: SANJAY KUMAR B
+Register Number: 212223220095
 */
 import java.util.Scanner;
 public class CountPairsWithDifference {
@@ -199,7 +199,7 @@ The program successfully implemented and the expected output is verified.
 
 
 # EX 1D Sorted Array using Divide and Conquer Approach.
-## DATE: 11.9.25
+## DATE:  6.8.26
 ## AIM:
 To write a Java program to for given constraints.
 Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays.
@@ -230,8 +230,8 @@ The overall run time complexity should be O(log (m+n)).
 ```
 /*
 Program to implement Reverse a String
-Developed by: MUKESH R
-Register Number: 212223240100
+Developed by:  SANJAY KUMAR B
+Register Number: 212223220095
 */
 import java.util.Scanner;
 
@@ -307,7 +307,7 @@ The program successfully implemented and the expected output is verified.
 
 
 # EX 1E Integer Multiplication using Divide and Conquer Approach(Strassen’s algorithm).
-## DATE: 11.9.25
+## DATE: 11.9.26
 ## AIM:
 To write a Java program to for given constraints.
 You are given two square matrices A and B of size n × n (where n is a power of 2). Your task is to compute their matrix product using Strassen’s Matrix Multiplication algorithm and return the resulting matrix.
@@ -331,8 +331,8 @@ Unlike traditional matrix multiplication which takes O(n3)O(n^3)O(n3) time, Stra
 ```
 /*
 Program to implement Reverse a String
-Developed by: MUKESH R
-Register Number: 212223240100
+Developed by:  SANJAY KUMAR B
+Register Number: 212223220095
 */
 import java.util.Scanner;
 
